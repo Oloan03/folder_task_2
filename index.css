@@ -1,0 +1,33 @@
+.container {
+    padding: 100px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.main {
+    width: 500px;
+    height: 200px;
+    padding: 10px 50px 30px;
+    border: 2px solid gray;
+    border-radius: 10px;
+    background-color: rgb(53, 219, 221);
+    font-family: 'Times New Roman', Times, serif;
+    float: left;
+    margin-top: 15px;
+}
+
+img {
+    background-color: #e0dae6;
+    background-size: cover;
+    border-radius: 100px;
+    width: 150px;
+    height: 150px;
+    margin: 0 auto;
+    border: 1px solid #dfd8d8;
+}
+
+php {
+    text-align: left;
+    float: left;
+    margin: 15px 200px 0;
+}
